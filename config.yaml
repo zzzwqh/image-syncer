@@ -7,4 +7,3 @@ kubernetes:
 
 images:
   - docker.io/nginx:latest 
-  - openjdk:11.0.13-oraclelinux7
